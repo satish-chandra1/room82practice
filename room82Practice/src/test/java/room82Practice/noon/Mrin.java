@@ -16,5 +16,11 @@ public class Mrin {
 	public void creates() {
 		System.out.println("Another method");
 	}
+	
+	@Test
+	public void imported() {
+		System.out.println("successfully imported from git repo");
+		System.out.println("importing 2nd time because first time not pushed");
+	}
 
 }
