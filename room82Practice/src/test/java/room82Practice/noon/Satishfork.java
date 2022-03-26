@@ -11,6 +11,8 @@ public class Satishfork {
 	public void practicefork() {
 		System.out.println("fork");
 		System.out.println("added");
+		System.out.println("again added");
+		System.out.println("lets see");
 	}
 	
 
