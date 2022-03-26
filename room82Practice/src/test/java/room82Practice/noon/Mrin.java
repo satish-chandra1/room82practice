@@ -21,7 +21,11 @@ public class Mrin {
 	public void imported() {
 		System.out.println("successfully imported from git repo");
 		System.out.println("importing 2nd time because first time not pushed");
+<<<<<<< HEAD
 		System.out.println("why thos colaberi di");
+=======
+		System.out.println("want a conflict");
+>>>>>>> branch 'master' of https://github.com/Mrinmoy157/room82practice.git
 	}
 
 }
