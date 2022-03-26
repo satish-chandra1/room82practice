@@ -12,5 +12,6 @@ public class Modifiedclass {
 public void movies() {
 	System.out.println("Inception");
 	System.out.println("Hen....t..a...iii");
+	System.out.println("aami je to maaaaa  rrrrr...chhhin ..chhin");
 }
 }
