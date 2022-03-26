@@ -13,6 +13,7 @@ public class Satishfork {
 		System.out.println("added");
 		System.out.println("again added");
 		System.out.println("lets see");
+		System.out.println("hello buddy");
 	}
 	
 
