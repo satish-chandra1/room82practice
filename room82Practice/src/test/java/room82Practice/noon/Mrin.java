@@ -6,10 +6,12 @@ public class Mrin {
 	@Test
 	public void create() {
 		System.out.println("Mrin stays away from girls");
+		System.out.println("Because he is gay");
 	}
 	@Test
 	public void created() {
 		System.out.println("Mrin stays away from boys");
+		System.out.println("sabbash");
 	}
 	
 	@Test
