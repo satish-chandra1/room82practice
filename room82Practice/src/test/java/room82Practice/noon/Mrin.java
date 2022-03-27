@@ -11,6 +11,7 @@ public class Mrin {
 	@Test
 	public void created() {
 		System.out.println("Mrin stays away from boys");
+		System.out.println("sabbash");
 	}
 	
 	@Test
