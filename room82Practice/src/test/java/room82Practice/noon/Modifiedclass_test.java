@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
  *
  */
 
-public class Modifiedclass {
+public class Modifiedclass_test {
 @Test
 public void movies() {
 	System.out.println("Inception");

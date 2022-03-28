@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
  * @author Sumit Pathak
  *
  */
-public class Satishfork {
+public class Satishfork_test {
 	@Test
 	public void practicefork() {
 		System.out.println("fork");
